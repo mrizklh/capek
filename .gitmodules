@@ -1,0 +1,3 @@
+[submodule "tamkin/themes/hugo-curious"]
+	path = tamkin/themes/hugo-curious
+	url = https://github.com/vietanhdev/hugo-curious
