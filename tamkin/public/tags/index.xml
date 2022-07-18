@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Curious</title>
+    <link>https://tamkin.me/tags/</link>
+    <description>Recent content in Tags on Hugo Curious</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tamkin.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Counter</title>
+      <link>https://tamkin.me/tags/counter/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/counter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keypoint Detection</title>
+      <link>https://tamkin.me/tags/keypoint-detection/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/keypoint-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal Processing</title>
+      <link>https://tamkin.me/tags/signal-processing/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apollo</title>
+      <link>https://tamkin.me/tags/apollo/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/apollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://tamkin.me/tags/computer-vision/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADAS</title>
+      <link>https://tamkin.me/tags/adas/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/adas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jetson Nano</title>
+      <link>https://tamkin.me/tags/jetson-nano/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/jetson-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://tamkin.me/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://tamkin.me/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>https://tamkin.me/tags/og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tamkin.me/tags/og/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
